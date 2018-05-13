@@ -39,11 +39,6 @@ class PassiveConnection extends DataConnection {
         socket.socket().bind(this.addr);
     }
 
-//    protected void doNegotiate() throws IOException {
-//        super.channel = SocketChannel.open();
-//        super.channel.configureBlocking(true);
-//        super.channel.connect(this.addr);
-//    }
     protected void doNegotiate() throws IOException {
         super.channel = socket.accept();  //npe
     }
