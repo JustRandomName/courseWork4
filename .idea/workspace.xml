@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27949630-4b47-472b-87f4-d21d7ecaab7b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09/PassiveConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09/PassiveConnection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PassiveConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PassiveConnection.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +20,7 @@
       <file leaf-file-name="DataConnection.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DataConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="-865">
               <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -53,13 +50,13 @@
       <file leaf-file-name="ServerMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ServerMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="28" column="24" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="24" />
+            <state relative-caret-position="204">
+              <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Auth.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Auth.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Auth.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -71,35 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PassiveConnection.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PassiveConnection.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PassiveConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FTPChannel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FTPChannel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
-              <folding>
-                <element signature="e#18366#18367#0" expanded="true" />
-                <element signature="e#18439#18440#0" expanded="true" />
-                <element signature="e#18476#18477#0" expanded="true" />
-                <element signature="e#18539#18540#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ftp.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ftp.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="108">
+              <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -281,12 +254,20 @@
       <workItem from="1526118388409" duration="6570000" />
       <workItem from="1526131601690" duration="196000" />
       <workItem from="1526211710760" duration="213000" />
-      <workItem from="1526212108184" duration="394000" />
+      <workItem from="1526212108184" duration="800000" />
     </task>
+    <task id="LOCAL-00001" summary="fix bugs and clean code">
+      <created>1526212722010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526212722010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25842000" />
+    <option name="totallyTimeSpent" value="26248000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,18 +283,19 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298969" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3298969" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3298969" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.44919" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3298969" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26979867" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26979867" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -324,7 +306,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3295302" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3298969" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -365,8 +346,38 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix bugs and clean code" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix bugs and clean code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -424,13 +435,6 @@ local.isLoopbackAddress()</expression-string>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ftp.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FTPChannel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1938">
@@ -731,27 +735,40 @@ local.isLoopbackAddress()</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Server.java">
+    <entry file="file://$PROJECT_DIR$/src/FTPChannel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="25" column="14" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="14" />
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#18366#18367#0" expanded="true" />
+            <element signature="e#18439#18440#0" expanded="true" />
+            <element signature="e#18476#18477#0" expanded="true" />
+            <element signature="e#18539#18540#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ServerMain.java">
+    <entry file="file://$PROJECT_DIR$/out/production/09/PassiveConnection.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="28" column="24" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="24" />
+        <state relative-caret-position="17">
+          <caret line="1" column="60" lean-forward="true" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DataConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="-865">
           <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -762,30 +779,10 @@ local.isLoopbackAddress()</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FTPChannel.java">
+    <entry file="file://$PROJECT_DIR$/src/ServerMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
-          <folding>
-            <element signature="e#18366#18367#0" expanded="true" />
-            <element signature="e#18439#18440#0" expanded="true" />
-            <element signature="e#18476#18477#0" expanded="true" />
-            <element signature="e#18539#18540#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PassiveConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ftp.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="204">
+          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -796,6 +793,20 @@ local.isLoopbackAddress()</expression-string>
           <folding>
             <element signature="e#359#360#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ftp.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PassiveConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
         </state>
       </provider>
     </entry>
